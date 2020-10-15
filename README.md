@@ -35,3 +35,26 @@ Attach a message to the commit to tell people what changes you've made.
 Then push (send) it to the central repo to be added in:
 
     git push origin master
+
+
+## Branching
+
+We use 'branches' to take a 'copy' of the code, make changes and then push (send) it back to the origin (central repository). Here we can then create a pull request, where someone can review your code and if accepted, merge it to the master/main branch.
+
+git checkout -b my-new-cool-feature
+
+Now you are working in your own area, safe to tinker away from the master branch.
+
+From here, make your changes, `add`, `commit` and push them to the remote repo for review and merge. The difference on push is:
+
+git push origin my-new-cool-feature
+
+## Pulling changes from the remote repo to local repo
+
+To connect our `master` branch with the origin `master` branch, we must set the upstream pointer, this tell our local branch where to find the remote branch:
+
+    git branch --set-upstream-to=origin/master master     
+
+To pull (or grab) the changes and updates, use:
+
+    git pull
