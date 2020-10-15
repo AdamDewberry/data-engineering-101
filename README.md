@@ -35,3 +35,10 @@ Attach a message to the commit to tell people what changes you've made.
 Then push (send) it to the central repo to be added in:
 
     git push origin master
+
+
+## Branching
+
+We use 'branches' to take a 'copy' of the code, make changes and then push (send) it back to the origin (central repository). Here we can then create a pull request, where someone can review your code and if accepted, merge it to the master/main branch.
+
+    git checkout -b my-new-cool-feature
