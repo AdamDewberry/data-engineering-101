@@ -6,7 +6,6 @@ This repo is a how to guide on learning enough Python, SQL and systems to get a 
 1. UNIX & gitbash
 1. [git](git/101.md)
     - Creating a repository
-    - Markdown & README.md
     - Remote repos
     - Branching
     - status, add, commit, push
@@ -15,6 +14,8 @@ This repo is a how to guide on learning enough Python, SQL and systems to get a 
     - Cloning
     - Force
     - Revert
+1. [Markdown - A markup language for docs](writing-documentation/1-Markdown.md)
+1. [README.md](writing-documentation/2-README.md)
 1. Installing Python packages
     1. [Package managers](python-101/pip-the-package-manager.md)
     1. Virtual environments & .gitignore
