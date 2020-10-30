@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: "data engineering 101"
-description: "A how to guide on learning enough Python, SQL and systems to get a first job in data engineering"
+title: "Data Engineering 101"
+
 show_downloads: false
 github:
   is_project_page: false
