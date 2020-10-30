@@ -1,5 +1,6 @@
-# Writing A README
-
+---
+title: Writing A README
+---
 ## What?
 
 A README contains all of the instructions needed to run and contribute to a project.
