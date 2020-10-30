@@ -1,5 +1,3 @@
-# Data Engineering 101
-
 This repo is a how to guide on learning enough Python, SQL and systems to get a first data engineering job.
 
 
