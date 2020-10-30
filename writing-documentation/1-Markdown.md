@@ -1,5 +1,6 @@
-# Markdown
-
+---
+title: Markdown
+---
 ## What?
 
 Markdown is (confusingly) a markup language.

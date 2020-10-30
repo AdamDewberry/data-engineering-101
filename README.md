@@ -1,6 +1,5 @@
 This repo is a how to guide on learning enough Python, SQL and systems to get a first data engineering job.
 
-
 1. UNIX & gitbash
 1. [git](git/101.md)
     - Creating a repository

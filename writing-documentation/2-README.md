@@ -22,6 +22,6 @@ Bearing in mind you may not need all of these, they are general guidelines of th
 
 
 The following are good examples of what a README should look like:  
-- [Python](https://github.com/python/cpython)
-- [AWS CLI](https://github.com/aws/aws-cli)
-- [Terraform](https://github.com/hashicorp/terraform)
+- [Python](https://github.com/python/cpython/blob/master/README.rst)
+- [AWS CLI](https://github.com/aws/aws-cli/blob/develop/README.rst)
+- [Terraform](https://github.com/hashicorp/terraform/blob/master/README.md)
