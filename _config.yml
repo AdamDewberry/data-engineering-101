@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: "Data Engineering 101"
-
+description: false
 show_downloads: false
 github:
   is_project_page: false
