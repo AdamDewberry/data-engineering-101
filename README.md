@@ -18,7 +18,7 @@ This repo is a how to guide on learning enough Python, SQL and systems to get a 
     1. Virtual environments & .gitignore
 1. Python
     - Objects
-    - [Functions](python-101/functions.md )
+    - [Functions](python-101/functions.md)
     - Loops
     - Conditional logic
     - Data Structures
