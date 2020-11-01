@@ -9,7 +9,7 @@ UNIX is an operating system first developed in the 1960s. It is a stable, multi-
 
 UNIX systems often have a graphical user interface (GUI), a visual prompt which you can interact with and pass commands via clicking and typing, similar to Microsoft Windows; when you boot the machine, this is what you're seeing. Not all operations are included in a GUI but can be accessed via the systems command line interface.
 
-## UNIX-like OS
+### UNIX-like OS
 
 There are many different versions of UNIX, although they share a common foundation. The most popular variations of UNIX are Linux and MacOS.
 
