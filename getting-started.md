@@ -39,13 +39,7 @@ To install iPython:
 1. In your user environment variables, select `Path` and `Edit`.
 ![](assets/environment_variables.png)
 1. Create a `New` variable with the path to your `iPython.exe` executable.  It is likely:
-
-
-    C:\Users\<your user>\AppData\Roaming\Python\Python38\Scripts
-    C:\Program Files\Python38\Scripts
-
-
+        C:\Users\<your user>\AppData\Roaming\Python\Python38\Scripts  
+        C:\Program Files\Python38\Scripts
 ![](assets/path.png)
-
-
-6. Close the terminal and open a new one, your paths should be updated. To test, run `ipython --version`.
+1. Close the terminal and open a new one, your paths should be updated. To test, run `ipython --version`.
