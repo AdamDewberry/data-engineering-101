@@ -33,7 +33,7 @@ To install iPython, run the following in your terminal:
 
     pip install ipython
 
-Pip is a package manager which helps us install useful things. [More on that here](python-101/pip-the-package-manager.md).
+Pip is a package manager which helps us install useful things. [More on that here](python/pip-the-package-manager.md).
 
 To test it installed, run:
 
