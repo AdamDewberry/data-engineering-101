@@ -11,7 +11,6 @@ It's likely you'll have a modern OS so choose the x64 version. The 64 bit compat
 
 During the installation, choose the custom install and select everything! There's a few parameters in there like 'adding Python to your path' that you'll need.
 
-
 Once Python has been installed, open your command prompt or terminal:
 - on Windows push `win + r` to get the run box and type `cmd` and enter to open a `Command Prompt`.
 - on Mac go to `Application` or use `command + space` then `terminal`.
@@ -34,13 +33,11 @@ To install iPython, run the following in your terminal:
 
     pip install ipython
 
-Pip is a package manager which helps us install useful things. [More on that here](python-101/pip-the-package-manager.md). 
-
+Pip is a package manager which helps us install useful things. [More on that here](python-101/pip-the-package-manager.md).
 
 To test it installed, run:
 
     ipython --version
-
 
 ### Windows specific installation
 **Note:** for Windows users you'll need to configure an environment path, an attribute that when you run the command `ipython` points to the application and opens it.
@@ -52,12 +49,13 @@ To test it installed, run:
 1. In your user environment variables, select `Path` and `Edit`.
 ![](assets/environment_variables.png)
 1. Create a `New` variable with the path to your `iPython.exe` executable.  It is likely one or both of the following, make a new variable for each:
-        C:\Users\<your user>\AppData\Roaming\Python\Python38\Scripts  
-        C:\Program Files\Python38\Scripts
+```
+C:\Users\<your user>\AppData\Roaming\Python\Python38\Scripts  
+C:\Program Files\Python38\Scripts
+```
 ![](assets/path.png)
 1. Confirm these through each window with `ok`. Close any terminals you have open and open a new one, your paths should be updated.
 1. To test, run `ipython --version`.
-
 
 ## IDE - Integrated Development Environment
 
