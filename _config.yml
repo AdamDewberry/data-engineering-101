@@ -4,3 +4,16 @@ description: false
 show_downloads: false
 github:
   is_project_page: false
+
+source: src
+destination: _site
+timezone: UTC
+encoding: utf-8
+
+assets:
+  source_maps: true
+  compression: true
+  defaults:
+    js: { integrity: false }
+    css: { integrity: false }
+    img: { integrity: false }
