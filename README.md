@@ -1,6 +1,6 @@
 This repo is a how to guide on learning enough Python, SQL and systems to get a first data engineering job.
 
-1. [Installing program requirements](getting-started.md)
+1. [Getting started](getting-started.md)
 1. [UNIX & gitbash](intro-to-unix-and-gitbash.md)
 1. [git](git/101.md)
     - Creating a repository
@@ -12,7 +12,7 @@ This repo is a how to guide on learning enough Python, SQL and systems to get a 
     - Cloning
     - Force
     - Revert
-1. [Markdown - A markup language for docs](writing-documentation/1-Markdown.md)
+1. [Markdown - A markup language](writing-documentation/1-Markdown.md)
 1. [README.md](writing-documentation/2-README.md)
 1. Installing Python packages
     1. [Package managers](python/pip-the-package-manager.md)
