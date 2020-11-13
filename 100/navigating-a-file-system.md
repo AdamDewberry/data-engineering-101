@@ -94,6 +94,7 @@ Invocation:
 
 ![](assets/rm.png)
 
-To remove a directory and its contents you will need the flag `-r` which stands for recursive, to remote the files recursively (everything in the directory you declare):
+To remove a directory and its contents you will need the flag `-r` which stands for recursive, to remove the files recursively (the directory and everything in it):
 
+    mkdir dir-name/
     rm -r dir-name/
