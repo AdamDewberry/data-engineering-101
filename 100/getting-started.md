@@ -33,7 +33,7 @@ To install iPython, run the following in your terminal:
 
     pip install ipython
 
-Pip is a package manager which helps us install useful things. [More on that here](python/pip-the-package-manager.md).
+Pip is a package manager which helps us install useful things. [More on that here](../python/pip-the-package-manager.md).
 
 To test it installed, run:
 
@@ -65,16 +65,8 @@ Now you have something to run the code, we need something where you can write it
 
 ## git
 
-git is used for version control, you can read more about that [here](git/101.md) but for now let's get it installed. [Download it here](https://git-scm.com/downloads).
+git is used for version control, you can read more about that [here](../git/101.md) but for now let's get it installed. [Download it here](https://git-scm.com/downloads).
 
 Many of the config steps can be left as the defaults, however when asked to 'Choose the default editor', at this point select `VS Code` (or your other editor of choice), which we just installed.
 
 These are reasonable instructions for [installing  git on windows](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
-
-### git BASH for windows
-
-When installing git, git BASH should come bundled with it for Windows users. git BASH is a BASH emulator which will allow us to work in similar ways, with common commands to unix-like systems (Mac OS, Ubuntu etc) which use BASH. Our aim is to work with similar development and production patterns.
-
-BASH is a UNIX command line interface where we can run things and configure the system. Mac OS and Linux machines have a terminal which can run BASH, though the commands are largely similar in their terminal.
-
-Typically when putting code into production, this is done on servers which have a UNIX-like operating system and use BASH. Experienced developers also natively work on machines running a UNIX-like OS such as Ubuntu - for these reasons it's a good idea to work with similar tooling where everyone can run each other's code. Read about git BASH [here](https://gitforwindows.org/).

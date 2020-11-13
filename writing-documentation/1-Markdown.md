@@ -18,17 +18,31 @@ A common use for markdown is to write instruction files, like a `README.md`. A R
 ## How?
 
 We use hashes to define headings:
+
+    # This is the highest order heading
+    ## This is a sub-heading
+    ### This is a sub-sub-heading
+
 # This is the highest order heading
 ## This is a sub-heading
-## This is a sub-sub-heading
-
+### This is a sub-sub-heading
 
 This is an example of a list / bullet points:
+
+    - Text A
+    - Text B
+    - Text C
+
 - Text A
 - Text B
 - Text C
 
 This is an example of a numbered list:
+
+    1. Point 1
+    1. Point 2
+    1. Point 3
+
 1. Point 1
 1. Point 2
 1. Point 3
