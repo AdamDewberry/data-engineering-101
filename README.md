@@ -19,20 +19,22 @@ This repo is a how to guide on learning enough Python, SQL and systems to get a 
     1. [Package managers](python/pip-the-package-manager.md)
     1. Virtual environments & .gitignore
 1. Python
-    - Objects
-    - Data Structures
-    - Debugging
+    - iPython
+    - Objects, Data Structures and Data Types
     - [Functions](python/functions.md)
-    - Loops
     - Conditional logic
-1. Writing clean code & Linting
-1. Pre-commit
-1. Testing
+    - Loops
+    - Errors
+    - Python_file.py
+    - Debugging
+    - Unit Testing
+1. Writing clean code
+1. Linting & Pre-commit
+1. Structured and Unstructured Data
 1. Data Handling
     1. Data ingestion with Pandas
     1. Data quality & cleaning
     1. Joining data sets
-1. Structured and Unstructured Data
 1. Storing Data
 1. Logging
 1. ELT Pipelines
@@ -61,5 +63,3 @@ This repo is a how to guide on learning enough Python, SQL and systems to get a 
 1. Scheduling jobs
 1. Shell Scripting
 1. Agile Ways of Working
-
-Jjahdf4$asd
