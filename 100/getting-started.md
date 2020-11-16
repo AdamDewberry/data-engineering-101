@@ -25,9 +25,9 @@ To test your Python installation run `python --version`.
 You may require Visual Studio and its compiler to install and run some Python libraries. Get it [here](
 https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
-## iPython
+## IPython
 
-iPython is a Python interpreter, a place for you to run your code and practise. It has many useful additions built over the top of Python - including things like colour-coded syntax highlighting which will improve your development experience.
+IPython is a Python interpreter, a place for you to run your code and practise. It has many useful additions built over the top of Python - including things like colour-coded syntax highlighting which will improve your development experience.
 
 To install iPython, run the following in your terminal:
 
