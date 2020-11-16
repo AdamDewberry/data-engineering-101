@@ -19,7 +19,7 @@ This repo is a how to guide on learning enough Python, SQL and systems to get a 
     1. [Package managers](python/pip-the-package-manager.md)
     1. Virtual environments & .gitignore
 1. Python
-    - iPython
+    - [iPython](python/ipython.md)
     - Objects, Data Structures and Data Types
     - [Functions](python/functions.md)
     - Conditional logic
