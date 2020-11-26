@@ -7,6 +7,7 @@ IPython is a Python interpreter, an interactive shell which evaluates and runs P
 ## Why?
 
 If Python is a language which uses an interpreter to process (interpret) code to 'do a thing' or return an output, we desire an interpreter which is also a friendly environment to develop in; IPython is a suped-up version of the Python interpreter and will do just that.
+
 Whilst in an active shell, you can run commands on the fly and keep them in memory, allowing you to reference or manipulate them in future commands.
 
 Evaluating a Python script processes all commands at runtime and clears out any variables and objects from memory created with the script which are no longer needed when the processing has completed; meaning once the code has finished running, nothing (unless explicitly outputted to the global system memory) will be stored as the session has closed, and we cannot retrieve objects used during the run.
