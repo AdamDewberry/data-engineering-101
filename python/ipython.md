@@ -16,7 +16,7 @@ IPython is a shell which remains open and so all global objects that the interpr
 
 ## How?
 
-Assuming you've already [set up IPython](../100/getting-started.md), open a terminal / git BASH and simply run the command:
+Assuming you've already [set up IPython](../100/getting-started.md#ipython), open a terminal / git BASH and simply run the command:
 
     ipython
 
