@@ -1,18 +1,15 @@
 This repo is a how to guide on learning enough Python, SQL and systems to get a first data engineering job.
 
+
+What this course is:
+
+What this course isn't:
+
+## Contents
 1. [Getting started](100/getting-started.md)
 1. [UNIX & gitbash](100/intro-to-unix-and-gitbash.md)
 1. [Navigating a file system](100/navigating-a-file-system.md)
 1. [git](git/101.md)
-    - Creating a repository
-    - Remote repos
-    - Branching
-    - status, add, commit, push
-    - Pulling
-    - Rebasing
-    - Cloning
-    - Force
-    - Revert
 1. [Markdown - A markup language](writing-documentation/1-Markdown.md)
 1. [README.md](writing-documentation/2-README.md)
 1. Installing Python packages
@@ -37,10 +34,15 @@ This repo is a how to guide on learning enough Python, SQL and systems to get a 
     1. Joining data sets
 1. Storing Data
 1. Logging
+1. More Python
+    - Input
+
 1. ELT Pipelines
 1. Integration Testing
 1. Plotting with Python
 1. Continuous Integration
+1. Escape characters
+1.
 1. Containerisation with Docker
 1. Databases and Warehousing
 1. Role Based Access Control
