@@ -21,7 +21,7 @@ Assuming you've already [set up IPython](../100/getting-started.md#ipython), ope
 
     ipython
 
-![ipython](assets/ipython.png)
+![ipython](assets/ipython/ipython.png)
 
 If you receive an error along the lines of
 
@@ -33,19 +33,19 @@ From here you have access to all of the usual Python commands.
 
 Try assigning a variable and calling it.
 
-![ipython](assets/assign-x.png)
+![ipython](assets/ipython/assign-x.png)
 
 ### Abort command
 
 If you need to cancel a run, say you're stuck in an infinite loop, push `ctrl + c`. This will throw an error of `KeyboardInterrupt` and allow you to continue working.
 
-![ipython](assets/cancel-command.png)
+![ipython](assets/ipython/cancel-command.png)
 
 ### Exit IPython
 
 Should you wish to leave IPython and return to the terminal, use `exit`.
 
-![ipython](assets/exit-ipython.png)
+![ipython](assets/ipython/exit-ipython.png)
 
 
 ## [_magic_ commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
@@ -75,7 +75,7 @@ Change directory
 
     %cd your/new/path
 
-![assets](assets/cd.png)
+![assets](assets/ipython/cd.png)
 
 ### `%dhist`
 
@@ -98,9 +98,9 @@ Show the history of commands executed
 
 Copies a string or macro to pastebin and automatically generates a link for you to send to someone; very useful for sharing snipits of code.
 
-![pastebin-ipython](assets/pastebin-ipython.png)
+![pastebin-ipython](assets/ipython/pastebin-ipython.png)
 
-![pastebin](assets/pastebin.png)
+![pastebin](assets/ipython/pastebin.png)
 
 ### `%pdef` func  
 
@@ -108,7 +108,7 @@ Print the call signature for any callable object.
 
     %pdef object
 
-![pdef](assets/pdef.png)
+![pdef](assets/ipython/pdef.png)
 
     def my_func(number:int, text:str) -> str:
         return number*text
@@ -123,7 +123,7 @@ Print the call signature for any callable object.
 
 Run a statement through the python code profiler.
 
-![prun](assets/prun.png)
+![prun](assets/ipython/prun.png)
 
 ### `%psearch`
 
@@ -133,6 +133,8 @@ Search the namespace for an object based on given input. Putting an `*` wildcard
 
 Will find all objects begining with my.
 
+![](assets/ipython/psearch.png)
+
     %psearch *y_*
 
 Will find any objects containing `y_`
@@ -141,7 +143,6 @@ Will find any objects containing `y_`
 
 Will find object ending in `func`
 
-![](assets/psearch.png)
 
 ### `%reset`
 
