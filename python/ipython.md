@@ -30,6 +30,23 @@ Then you need to either install IPython or add it to your system environment pat
 
 From here you have access to all of the usual Python commands.
 
+Try assigning a variable and calling it.
+
+![ipython](assets/assign-x.png)
+
+### Abort command
+
+If you need to cancel a run, say you're stuck in an infinite loop, push `ctrl + c`. This will throw an error of `KeyboardInterrupt` and allow you to continue working.
+
+![ipython](assets/cancel-command.png)
+
+### Exit IPython
+
+Should you wish to leave IPython and return to the terminal, use `exit`.
+
+![ipython](assets/exit-ipython.png)
+
+
 ## [_magic_ commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 IPython's inbuilt magic commands are incredibly useful, this is not a complete list but some of the ones I find most helpful.
