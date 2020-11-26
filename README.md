@@ -1,9 +1,11 @@
-This repo is a how to guide on learning enough Python, SQL and systems to get a first data engineering job.
+This site is a structured, practical guide on learning enough Python, SQL and systems to get a first job in development or as a junior data engineering.
+
+Though the focus is on data engineering, the essential skills taught will support a career in data science or data analysis - though you will need additional mathematics and statistical understanding which this course does not provide.
 
 
-What this course is:
+What this course is not:  
+A silver bullet, there is no substitute for practise and hours spent coding.
 
-What this course isn't:
 
 ## Contents
 1. [Getting started](100/getting-started.md)
