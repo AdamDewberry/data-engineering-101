@@ -21,8 +21,8 @@ A silver bullet, there is no substitute for practise and hours spent coding.
     - [iPython](python/ipython.md)
     - Objects, Data Structures and Data Types
     - [Functions](python/functions.md)
+    - [Loops](python/loops.md)
     - Conditional logic
-    - Loops
     - Errors
     - Python_file.py
     - Debugging
