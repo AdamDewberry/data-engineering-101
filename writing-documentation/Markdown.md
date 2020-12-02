@@ -1,6 +1,5 @@
----
-title: Markdown
----
+# Markdown
+
 ## What?
 
 Markdown is (confusingly) a markup language.
@@ -19,9 +18,7 @@ A common use for markdown is to write instruction files, like a `README.md`. A R
 
 We use hashes to define headings:
 
-    # This is the highest order heading
-    ## This is a sub-heading
-    ### This is a sub-sub-heading
+<script src="https://gist.github.com/AdamDewberry/cd9c8ba9fd22daf33a81013ab06740d2.js"></script>
 
 # This is the highest order heading
 ## This is a sub-heading

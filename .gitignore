@@ -2,3 +2,5 @@
 recordings/
 in-development/
 Notes.md
+__pycache__
+.DS_Store

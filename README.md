@@ -12,8 +12,8 @@ A silver bullet, there is no substitute for practise and hours spent coding.
 1. [UNIX & gitbash](100/intro-to-unix-and-gitbash.md)
 1. [Navigating a file system](100/navigating-a-file-system.md)
 1. [git](git/101.md)
-1. [Markdown - A markup language](writing-documentation/1-Markdown.md)
-1. [README.md](writing-documentation/2-README.md)
+1. [Markdown - A markup language](writing-documentation/Markdown.md)
+1. [README.md](writing-documentation/README.md)
 1. Installing Python packages
     1. [Package managers](python/pip-the-package-manager.md)
     1. Virtual environments & .gitignore
