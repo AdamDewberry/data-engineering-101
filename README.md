@@ -54,25 +54,26 @@ A silver bullet, there is no substitute for practise and hours spent coding.
     - Plotting maps with Python
     - Storing Data
     - Integration Testing
+    - APIs
 1. Databases and Warehousing
-    - Setting up Snowflake
+    - What is a database?
+    - Setting up a data warehouse with Snowflake
     - Getting data into Snowflake
     - Querying Data with SQL
     - Data Governance
     - Role Based Access Control
     - Accessing a Database with Python
 1. ELT Pipelines
-1. Containerisation with Docker
 1. Dashboarding and Data Presentation
 1. Moving to the Cloud
-1. Amazon s3, Lambda and IAM
-1. APIs
-1. Architecting Systems
-    - Event Driven Architecture
+    - Amazon s3, Lambda and IAM
+    - Architecting Systems
+        - Event Driven Architecture
 1. Infrastructure as Code
+1. Containerisation with Docker
 1. Putting code into Production
-1. Secrets and Configuration Files
-1. Continuous Deployment
-1. Monitoring & Alerting
+    - Scheduling jobs
+    - Continuous Deployment
+    - Secrets and Configuration Files
+    - Monitoring & Alerting
 1. Game day
-1. Scheduling jobs
