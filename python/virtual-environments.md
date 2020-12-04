@@ -12,7 +12,7 @@ Check the [docs here](https://docs.python.org/3/tutorial/venv.html).
 
 Different projects and code bases may use different versions of libraries and packages, to ensure that you and others can consistently run a piece of code, you should use the same version of a library. Over time functions/methods and classes may be deprecated  and eventually stop being supported, or may be modified to the point which breaks your code. To avoid this, we 'pin' the version and consistently use that particular version, until we're ready to upgrade. It is important to upgrade libraries over time to receive security updates and extend functionality; no system is completely and even the compatibility with the hardware changes when enough time passes.
 
-See the note on [semantic versioning](./pip-the-package-manager.md) to explain how versioning works.
+See the note on [semantic versioning](./pip-the-package-manager.md#a-note-on-semver) to explain how versioning works.
 
 ## How?
 
