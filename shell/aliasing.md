@@ -1,4 +1,4 @@
-# Aliasing commands
+# Aliasing commands
 
 You can "alias" commands to create shortcuts. If there is a popular set of commands or inputs you can create a alias which points to those commands and executes them, for example, I would like to alias opening the Google Chrome Browser.
 
