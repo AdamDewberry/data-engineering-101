@@ -14,7 +14,7 @@ No one person works on the same project forever, in the same team or company; if
 
 ## How?
 
-Create a file called `README.md` in the root of your project and populate it with lots of lovely markdown, in clear sections detailing all the relevant information to the project. There should never be domain knowledge of the code in your head, everything important should be documented.
+Create a file called `README.md` in the root of your project and populate it with lots of lovely [markdown](./Markdown.md), in clear sections detailing all the relevant information to the project. There should never be domain knowledge of the code in your head, everything important should be documented.
 
 You should include sections such as:
 

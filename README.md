@@ -14,9 +14,9 @@ A silver bullet, there is no substitute for practise and hours spent coding.
 1. [git 101](git/101.md)
     - [.gitignore](git/gitignore.md)
 1. Setting up a project
-    - Writing documentation
-    - [Markdown - A markup language](writing-documentation/Markdown.md)
+    - [Writing documentation](writing-documentation/writing-documentation.md)
     - [README.md](writing-documentation/README.md)
+    - [Markdown - A markup language](writing-documentation/Markdown.md)
 1. Python 101
     - [Installing Python package with Pip](python/pip-the-package-manager.md)
     - [Virtual environments](python/virtual-environments.md)
