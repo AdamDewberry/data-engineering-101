@@ -8,7 +8,7 @@
 
 Some files which may be generated from your code, or libraries that are needed to run the code should not be committed as they are large and unnecessary to include in the project. Your README should include a list of any dependencies you need and a list of libraries should be provided; in the case of Python in a `requirement.txt` file.
 
-## How
+## How
 
 Create a file called `.gitignore`
 
