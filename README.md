@@ -12,12 +12,13 @@ A silver bullet, there is no substitute for practise and hours spent coding.
 1. [UNIX & gitbash](100/intro-to-unix-and-gitbash.md)
 1. [Navigating a file system](100/navigating-a-file-system.md)
 1. [git 101](git/101.md)
+    - [.gitignore](git/gitignore.md)
 1. Setting up a project
     - Writing documentation
     - [Markdown - A markup language](writing-documentation/Markdown.md)
     - [README.md](writing-documentation/README.md)
 1. Python 101
-    -  Virtual environments & .gitignore
+    -  [Virtual environments](python/virtual-environments.md)
     - [Installing Python package with Pip](python/pip-the-package-manager.md)
     - [iPython](python/ipython.md)
     - Objects, Data Structures and Data Types
@@ -31,6 +32,7 @@ A silver bullet, there is no substitute for practise and hours spent coding.
     - Unit Testing
     - Logging
 1. Collaborating in Software development
+    - Agile Ways of Working
 1. Standards
     - Writing clean code
     - Linting & pre-commit
@@ -39,7 +41,11 @@ A silver bullet, there is no substitute for practise and hours spent coding.
     - Hot keys and shortcuts
     - [Aliasing commands](shell/aliasing.md)
     - Escape characters
-1. 1. Python 102 - Data Handling With Python
+    - Bash Scripting
+1. Continuous Integration
+    - yaml
+    - GitHub Actions
+1. Python 102 - Data Handling With Python
     - Working with structured and unstructured data
     - Data ingestion with Python and Pandas
     - Data quality & cleaning
@@ -48,30 +54,25 @@ A silver bullet, there is no substitute for practise and hours spent coding.
     - Plotting maps with Python
     - Storing Data
     - Integration Testing
-1. Continuous Integration
-    - yaml
-    - GitHub Actions
 1. Databases and Warehousing
-1. Querying Data with SQL
-1. Role Based Access Control
-1. Getting Data into a Database with Python
-1. Data Governance
-1. Accessing a Database with Python
+    - Setting up Snowflake
+    - Getting data into Snowflake
+    - Querying Data with SQL
+    - Data Governance
+    - Role Based Access Control
+    - Accessing a Database with Python
 1. ELT Pipelines
 1. Containerisation with Docker
-
 1. Dashboarding and Data Presentation
 1. Moving to the Cloud
 1. Amazon s3, Lambda and IAM
+1. APIs
 1. Architecting Systems
     - Event Driven Architecture
 1. Infrastructure as Code
-1. APIs
 1. Putting code into Production
 1. Secrets and Configuration Files
 1. Continuous Deployment
 1. Monitoring & Alerting
 1. Game day
 1. Scheduling jobs
-1. Shell Scripting
-1. Agile Ways of Working
