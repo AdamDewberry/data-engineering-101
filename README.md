@@ -18,8 +18,8 @@ A silver bullet, there is no substitute for practise and hours spent coding.
     - [Markdown - A markup language](writing-documentation/Markdown.md)
     - [README.md](writing-documentation/README.md)
 1. Python 101
-    -  [Virtual environments](python/virtual-environments.md)
     - [Installing Python package with Pip](python/pip-the-package-manager.md)
+    - [Virtual environments](python/virtual-environments.md)
     - [iPython](python/ipython.md)
     - Objects, Data Structures and Data Types
     - [Functions](python/functions.md)
