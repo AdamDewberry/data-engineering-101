@@ -10,18 +10,25 @@ jobs:
     - name: checkout-code
       uses: actions/checkout@v2
 
-    # - name: cache-python-requirements
-    #   uses: actions/cache@v2
-    #   id: pip-cache
-    #   with:
-    #     path: ~/.cache/pip
-    #     key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-    #     restore-keys: |
-    #       ${{ runner.os }}-pip
+    - name: cache-python-deps
+      uses: actions/cache@v2
+      id: pip-cache
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip
+
+    - name: setup-python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
 
     - name: install-python-requirements
-      run: pip3 install --requirement requirements.txt
-
-    - name: run-pytest
       run: |
-        pytest code -vvv
+        python -m pip install --upgrade pip
+        pip install --requirement requirements.txt
+
+    - name: run-unit-tests
+      run: |
+        pytest -vv code
