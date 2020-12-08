@@ -31,4 +31,4 @@ jobs:
 
     - name: run-unit-tests
       run: |
-        pytest -vv code
+        pytest code -vvv
