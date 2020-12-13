@@ -40,7 +40,7 @@ A silver bullet, there is no substitute for practise and hours spent coding.
 1. Shell 101
     - Hot keys and shortcuts
     - [Aliasing commands](shell/aliasing.md)
-    - Escape characters
+    - Escape characters & RegEx
     - Bash Scripting
 1. Continuous Integration
     - yaml
