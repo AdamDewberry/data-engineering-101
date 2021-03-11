@@ -63,7 +63,20 @@ A silver bullet, there is no substitute for practise and hours spent coding.
     - Data Governance
     - Role Based Access Control
     - Accessing a Database with Python
+1. Connecting Python to Snowflake
+    - Setting up the connection
+    - Building a data warehouse using Python
+    - Pushing data into Snowflake with Python
+    - Query data
+    - Getting data out of Snowflake using Python
+1. Consuming APIs
 1. ELT Pipelines
+    - Using Python to retrieve data from an API
+    - Data Lakes
+    - Building the pipeline to Snowflake
+    - Warehousing the data
+    - Transforming the data
+    - Automating a data export using the Gmail API
 1. Dashboarding and Data Presentation
 1. Moving to the Cloud
     - Amazon s3, Lambda and IAM
