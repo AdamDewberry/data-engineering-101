@@ -1,15 +1,24 @@
+# remote_theme: pages-themes/slate@v0.2.0
 theme: jekyll-theme-slate
 title: "Data Engineering 101"
 description: false
 show_downloads: false
 github:
-  is_project_page: false
+  is_project_page: true
 
-source: src
+# source: src
 destination: _site
 timezone: UTC
 encoding: utf-8
 
+# remote_theme: pages-themes/slate@v0.2.0
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-remote-theme
+ 
 assets:
   source_maps: true
   compression: true

@@ -1,3 +1,9 @@
+<!-- ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+--- -->
 This site is a structured, practical guide on learning enough Python, SQL and systems to get a first job in development or as a junior data engineering.
 
 Though the focus is on data engineering, the essential skills taught will support a career in data science or data analysis - though you will need additional mathematics and statistical understanding which this course does not provide.
