@@ -1,3 +1,7 @@
+---
+layout: default
+published: true
+---
 # Pip - The Package Manager
 
 Software typically depends on many support packages and libraries, each package has a specific release version.  One way to version is using a semantic version, [SEMVER](https://semver.org/), of Major.Minor.Patch.

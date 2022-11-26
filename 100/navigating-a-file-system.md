@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Navigating a file system
 
 Open your terminal or git BASH (if you are using a Windows machine).

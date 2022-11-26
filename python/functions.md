@@ -1,3 +1,7 @@
+---
+layout: default
+published: true
+---
 # Methods - Defining functions
 
 ## What?

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # UNIX
 
 **Firstly, what is an operating system (OS)?**  

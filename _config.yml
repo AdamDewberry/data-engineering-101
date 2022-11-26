@@ -2,25 +2,17 @@ theme: jekyll-theme-slate
 
 title: "Data Engineering 101"
 description: "Zero to engineering with python, sql and data warehousing"
-url: "https://www.dataengineering101.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dataengineering101.com"
 github_username: adamdewberry
 linkedin_username: adamdewberry
 
-permalink: /:path
-# defaults:
-#   - layout: default
+permalink: :path
 
-show_downloads: false
-# github:
-#   is_project_page: true
-
-# source: src
 layout: default
 destination: _site
 timezone: UTC
 encoding: utf-8
-
-# remote_theme: pages-themes/slate@v0.2.0
+show_downloads: false
 
 plugins:
   - jekyll-feed

@@ -1,3 +1,7 @@
+---
+layout: default
+published: true
+---
 # Data types and data structures
 
 In Python, everything is an object, every object has a type.

@@ -1,3 +1,7 @@
+---
+layout: default
+published: true
+---
 # Writing Documentation
 
 ## What

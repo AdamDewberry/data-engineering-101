@@ -1,3 +1,7 @@
+---
+layout: default
+published: false
+---
 # Errors
 
 raise

@@ -1,3 +1,7 @@
+---
+layout: default
+published: true
+---
 # Virtual Environments
 
 If you haven't already, I'd strongly recommend reading the page on [pip the package manager](./pip-the-package-manager.md) before continuing.

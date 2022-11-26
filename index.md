@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-Data Engineering 101
-
 This site is a structured, practical guide on learning enough Python, SQL and systems to get a first job in development or as a junior data engineering.
 
 
@@ -14,22 +12,22 @@ A silver bullet, there is no substitute for practise and hours spent coding.
 
 
 ## Contents
-1. [Getting started](100/getting-started.md)
-1. [UNIX & gitbash](100/intro-to-unix-and-gitbash.md)
-1. [Navigating a file system](100/navigating-a-file-system.md)
-1. [git 101](git/101.md)
-    - [.gitignore](git/gitignore.md)
+1. [Getting started](100/getting-started.html)
+1. [UNIX & gitbash](100/intro-to-unix-and-gitbash.html)
+1. [Navigating a file system](100/navigating-a-file-system.html)
+1. [git 101](git/101.html)
+    - [.gitignore](git/gitignore.html)
 1. Setting up a project
-    - [Writing documentation](writing-documentation/writing-documentation.md)
-    - [README.md](writing-documentation/README.md)
-    - [Markdown - A markup language](writing-documentation/Markdown.md)
+    - [Writing documentation](writing-documentation/writing-documentation.html)
+    - [README.md](writing-documentation/README.html)
+    - [Markdown - A markup language](writing-documentation/Markdown.html)
 1. Python 101
-    - [Installing Python package with Pip](python/pip-the-package-manager.md)
-    - [Virtual environments](python/virtual-environments.md)
-    - [iPython](python/ipython.md)
+    - [Installing Python package with Pip](python/pip-the-package-manager.html)
+    - [Virtual environments](python/virtual-environments.html)
+    - [iPython](python/ipython.html)
     - Objects, Data Structures and Data Types
-    - [Functions](python/functions.md)
-    - [Loops](python/loops.md)
+    - [Functions](python/functions.html)
+    - [Loops](python/loops.html)
     - Conditional logic
     - Errors
     - Python_file.py
@@ -45,7 +43,7 @@ A silver bullet, there is no substitute for practise and hours spent coding.
 1. git 102
 1. Shell 101
     - Hot keys and shortcuts
-    - [Aliasing commands](shell/aliasing.md)
+    - [Aliasing commands](shell/aliasing.html)
     - Escape characters & RegEx
     - Bash Scripting
 1. Continuous Integration

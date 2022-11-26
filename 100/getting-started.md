@@ -1,3 +1,7 @@
+---
+layout: default
+published: true
+---
 # Getting started - Downloading software
 
 Firstly, you'll need some software. I have tried to include all of the instructions you'll need to install and run each software for either a Windows or UNIX-like (Mac OS, Ubuntu etc) operating system.
