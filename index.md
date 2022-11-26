@@ -1,11 +1,6 @@
-<!-- ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-title: "Data Engineering 101"
-description: "This site is a structured, practical guide on learning enough Python, SQL and systems to get a first job in development or as a junior data engineering.
-"
---- -->
+---
+layout: default
+---
 Data Engineering 101
 
 This site is a structured, practical guide on learning enough Python, SQL and systems to get a first job in development or as a junior data engineering.

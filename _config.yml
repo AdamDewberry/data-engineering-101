@@ -1,12 +1,21 @@
-# remote_theme: pages-themes/slate@v0.2.0
 theme: jekyll-theme-slate
+
 title: "Data Engineering 101"
 description: false
+url: "https://www.dewberry.dev/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: adamdewberry
+linkedin_username: adamdewberry
+
+permalink: /:path
+# defaults:
+#   - layout: default
+
 show_downloads: false
 # github:
 #   is_project_page: true
 
 # source: src
+layout: default
 destination: _site
 timezone: UTC
 encoding: utf-8
@@ -17,12 +26,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  # - jekyll-remote-theme
  
-assets:
-  source_maps: true
-  compression: true
-  defaults:
-    js: { integrity: false }
-    css: { integrity: false }
-    img: { integrity: false }

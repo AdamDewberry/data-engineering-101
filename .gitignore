@@ -5,3 +5,7 @@ Notes.md
 __pycache__
 .DS_Store
 _site
+.sass-cache
+Gemfile.lock
+.jekyll-cache
+
